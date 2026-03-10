@@ -1,0 +1,7 @@
+{
+  "latestVersionName": "2.5.1",
+  "latestVersionCode": 251,
+  "updateMessage": "1. 修复了播放卡顿问题；\n2. 新增了投屏功能；\n3. 优化了界面交互体验",
+  "isForce": false,
+  "downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
+}
