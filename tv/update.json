@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "2026.3.10 (Stable) Fix",
-  "latestVersionCode": 2,
-  "updateMessage": "1. 新增上下集切换；\n2. 增加更新检查；\n3. 修复部分BUG \n 未来更新：\n   1. 投屏功能 \n 2. 适配平板",
+  "latestVersionName": "2026.3.11",
+  "latestVersionCode": 3,
+  "updateMessage": "1. 修复播放时息屏的问题 \n 未来更新：\n   1. 投屏功能 \n 2. 适配平板",
   "isForce": true,
   "downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
 }
