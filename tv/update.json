@@ -1,7 +1,7 @@
 {
-"latestVersionName": "2026.03.12_339127440bc1e1826934ed37799f9be8",
-"latestVersionCode": 5,
-"updateMessage": "1. 修复播放源显示不全问题，解决部分影片无法播放问题，优化JPVod与荐片数据Json的适配性；\n2. 修复小问题，若出现文件类型不支持报错为荐片服务器问题，软件自带多备选API将自动选择最优",
+"latestVersionName": "2026.03.12_799f9be8",
+"latestVersionCode": 6,
+"updateMessage": "1. 提升代码复用率，精简安装包体积；\n2. 重新设计部分页面；\n3. 修复播放器投屏时重载的问题；\n4. 修复播放器触屏手势在失去焦点时仍然触发的问题；\n5. 新增胶囊信息显示。\n\n**温馨提示**\n    从此版本起，后续如果没有重大bug，将不强制更新。",
 "isForce": true,
 "downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
 }
