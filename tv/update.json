@@ -1,7 +1,7 @@
 {
-"latestVersionName": "2026.03.12_799f9be8",
-"latestVersionCode": 6,
-"updateMessage": "1. 提升代码复用率，精简安装包体积；\n2. 重新设计部分页面；\n3. 修复播放器投屏时重载的问题；\n4. 修复播放器触屏手势在失去焦点时仍然触发的问题；\n5. 新增胶囊信息显示。\n\n**温馨提示**\n    从此版本起，后续如果没有重大bug，将不强制更新。",
+"latestVersionName": "2026.03.15_214fe806",
+"latestVersionCode": 7,
+"updateMessage": "1. 彻底修复播放源加载不全的问题；\n2. 重新设计部分页面；\n\n**温馨提示**\n    由于修复重大bug，故强制更新。",
 "isForce": true,
 "downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
 }
