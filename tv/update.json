@@ -1,7 +1,7 @@
 {
-"latestVersionName": "2026.03.15_214fe806",
-"latestVersionCode": 7,
-"updateMessage": "1. 彻底修复播放源加载不全的问题；\n2. 重新设计部分页面；\n\n**温馨提示**\n    由于修复重大bug，故强制更新。",
-"isForce": true,
-"downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
+"latestVersionName": "2026.03.16_05fcda2c",
+"latestVersionCode": 8,
+"updateMessage": "修复搜索结果不全的问题。\n",
+"isForce": false,
+"downloadUrl": "https://api.qplexbyte.fun/tv.apk"
 }
