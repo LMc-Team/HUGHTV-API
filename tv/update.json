@@ -1,7 +1,7 @@
 {
-"latestVersionName": "2026.03.20_33bfcb80",
-"latestVersionCode": 2000,
-"updateMessage": "3月20晚间更新：\n  修复部分问题。\n  重绘App图标。",
+"latestVersionName": "2026.03.24_e88b27e3",
+"latestVersionCode": 2006,
+"updateMessage": "更新：\n  彻底重构首页。\n  重构底层接口，减少卡顿。\n全面支持影视筛选。\n修复部分BUG。",
 "isForce": true,
-"downloadUrl": "https://api.qplexbyte.fun/update.apk"
+"downloadUrl": "https://api.qplexbyte.fun/324.apk"
 }
